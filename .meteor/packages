@@ -20,3 +20,6 @@ react-meteor-data
 aldeed:collection2-core
 mdg:validated-method
 universe:i18n
+accounts-base
+accounts-password
+ddp-rate-limiter
